@@ -1,0 +1,3 @@
+sana,100
+enferma,40
+recuperada,20
